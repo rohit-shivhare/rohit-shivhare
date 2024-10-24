@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Frameworks, Web Development Course**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rohittt1012](https://github.com/rohittt1012)
+- 👨‍💻 All of my projects are available at [https://github.com/rohit-shivhare](https://github.com/rohit-shivhare)
 
-- 💬 Ask me about **C/C++, MySQL, HTML, CSS**
+- 💬 Ask me about **C/C++, MySQL, HTML, CSS, JavaScript, PHP**
 
 - 📫 How to reach me **rshivhare7405@gmail.com**
 
