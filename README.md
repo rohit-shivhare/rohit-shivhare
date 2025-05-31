@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohittt1012&label=Profile%20views&color=0e75b6&style=flat" alt="rohittt1012" /> </p>
 
-- 🔭 I’m currently working on **Frontend Development**
-
-- 🌱 I’m currently learning **Web Development Course**
+- 🔭 I’m currently working on **Web Development**
 
 - 👨‍🎓 Collage Project [YOGASAN - YOGA PLATFORM](https://yogasan.freesite.online/)
 
