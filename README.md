@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Frontend Development**
 
-- 🌱 I’m currently learning **Frameworks, Web Development Course**
+- 🌱 I’m currently learning **Web Development Course**
 
 - 👨‍🎓 Collage Project [YOGASAN - YOGA PLATFORM](https://yogasan.freesite.online/)
 
