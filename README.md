@@ -15,7 +15,7 @@
 
 <!-- About Me -->
 <div align="left">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="35" /> &lt;=--- 📬 About Me ---=&gt;</h2>
+  <h2>📬 About Me</h2>
   <p>
     <b>Building Scalable, High-Performance, and AI-Driven Solutions</b> 🚀<br><br>
     I am a passionate <b>Full Stack Developer</b> who thrives on crafting dynamic, end-to-end software applications. I love taking complex architectural challenges and turning them into seamless user experiences. 
