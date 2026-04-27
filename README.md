@@ -20,7 +20,7 @@
     <b>Building Scalable, High-Performance, and AI-Driven Solutions</b> 🚀<br><br>
     I am a passionate <b>Full Stack Developer</b> who thrives on crafting dynamic, end-to-end software applications. I love taking complex architectural challenges and turning them into seamless user experiences. 
     <br><br>
-    My work spans across multiple domains, from building robust web platforms like <b>YOGASAN</b> and pixel-perfect UI clones (like <b>Zomato</b>), to engineering advanced AI tools like <b>Resume ATS Analyzer</b> and <b>Resume Builder</b>. I also actively explore Mobile App Development with Dart and craft backend/automation scripts with Python.
+    My work spans across multiple domains, from building robust web platforms like <b>YOGASAN</b> and pixel-perfect UI clones, to engineering advanced AI tools like <b>Resume ATS Analyzer</b> and <b>Resume Builder</b>. I also actively explore Mobile App Development with Dart and craft backend/automation scripts with Python.
     <br><br>
     Whether it's architecting a highly scalable backend, integrating Generative AI, or fine-tuning beautiful UI animations, I live and breathe modern software engineering.
   </p>
