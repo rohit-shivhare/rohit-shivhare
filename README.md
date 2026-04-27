@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Shivhare;A+Passionate+Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+%26+Coding" alt="Typing SVG" />
 </div>
-
+<br>
 <!-- Connect & Profile Views -->
 <p align="center">
   <a href="mailto:rshivhare7405@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -15,7 +15,7 @@
 
 <!-- About Me -->
 <div align="left">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="35" /> About Me 📬</h2>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="35" /> &lt;=--- 📬 About Me ---=&gt;</h2>
   <p>
     <b>Building Scalable, High-Performance, and AI-Driven Solutions</b> 🚀<br><br>
     I am a passionate <b>Full Stack Developer</b> who thrives on crafting dynamic, end-to-end software applications. I love taking complex architectural challenges and turning them into seamless user experiences. 
@@ -66,6 +66,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Stitches-18181A?style=for-the-badge&logo=stitches&logoColor=white" alt="Stitches" />
 </p>
 <p align="center">
   <b>Backend, Mobile & DevOps:</b><br/>
@@ -77,6 +78,7 @@
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Coding" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
 
 <br>
