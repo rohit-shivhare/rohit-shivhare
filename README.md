@@ -3,15 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Shivhare;A+Passionate+Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+%26+Coding" alt="Typing SVG" />
 </div>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohittt1012&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
+<!-- Connect & Profile Views -->
 <p align="center">
   <a href="mailto:rshivhare7405@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/rohit-shivhare" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rohit-shivhare LinkedIn" /></a>
   <a href="https://x.com/rohit_shiv65943" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rohittt1012&label=Profile%20Views&color=0e75b6&style=for-the-badge" align="center" alt="Profile Views" />
 </p>
 
 <br>
