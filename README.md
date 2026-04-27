@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Stitches-18181A?style=for-the-badge&logo=stitches&logoColor=white" alt="Stitches" />
+  <img src="https://img.shields.io/badge/Stitches-18181A?style=for-the-badge&logo=stitches&logoColor=white" alt="Stitch" />
 </p>
 <p align="center">
   <b>Backend, Mobile & DevOps:</b><br/>
