@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:rshivhare7405@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/rohit-shivhare" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rohit-shivhare LinkedIn" /></a>
-  <a href="https://x.com/rohit_shiv65943" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a>
+  <a href="https://x.com/rohit_shiv65943" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a>
   <img src="https://komarev.com/ghpvc/?username=rohittt1012&label=Profile%20Views&color=0e75b6&style=for-the-badge" align="center" alt="Profile Views" />
 </p>
 
