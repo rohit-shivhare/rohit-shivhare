@@ -11,15 +11,30 @@
 <br>
 
 <div align="center">
-  <h3>👨‍💻 About Me</h3>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="35" /> About Me</h2>
 </div>
 
-- 🔭 I’m currently working on **Web Development** & crafting awesome user experiences.
-- 🌱 I’m constantly diving deeper into **Modern Web Architecture, React & Next.js**.
-- 💼 Check out my recent College Project: **[YOGASAN - YOGA PLATFORM](https://yogasan.freesite.online/)**
-- 🚀 And my Personal Project: **[RESUME HUB](https://rohit-shivhare.github.io/resume-builder/)**
-- 💬 Ask me about: **HTML, CSS, JS, React, MySQL, PHP, C/C++**
-- 📫 How to reach me: **[rshivhare7405@gmail.com](mailto:rshivhare7405@gmail.com)**
+<div align="center">
+  <p>
+    <b>Crafting Pixel-Perfect Web Experiences</b> <br/>
+    I am a passionate <b>Frontend Developer</b> who thrives on building dynamic, high-performance, and visually stunning web applications. <br/> From architecting React platforms to fine-tuning UI animations, I live and breathe modern web development.
+  </p>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> What I Do</h3>
+        <p>I specialize in bridging the gap between design and engineering. Turning complex problems into elegant, intuitive, and responsive interfaces.</p>
+      </td>
+      <td align="center" width="50%">
+        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> My Mission</h3>
+        <p>To constantly evolve, master the latest web technologies, and build software that genuinely makes an impact.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
@@ -63,7 +78,10 @@
 <p align="center">
   <a href="https://linkedin.com/in/rohit-shivhare" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rohit-shivhare LinkedIn" /></a>
   <a href="https://instagram.com/rohittt_.0._" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:rshivhare7405@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <!--
   <a href="https://codepen.io/rohittt1012" target="blank"><img align="center" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
   <a href="https://www.hackerrank.com/rshivhare7405" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <a href="https://www.leetcode.com/rohittt1012" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  -->
 </p>
