@@ -12,26 +12,20 @@
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="35" /> About Me</h2>
 </div>
 
+<p align="center">
+  <b>Building Scalable & High-Performance Solutions</b> <br><br>
+  I am a passionate <b>Full Stack Developer</b> who thrives on building dynamic, end-to-end applications. <br>
+  From architecting scalable backends to fine-tuning beautiful UI animations, I live and breathe modern software engineering.
+</p>
+
 <div align="center">
-  <p>
-    <b>Building Scalable & High-Performance Solutions</b> <br/>
-    I am a passionate <b>Full Stack Developer</b> who thrives on building dynamic, end-to-end applications. <br/> From architecting scalable backends to fine-tuning beautiful UI animations, I live and breathe modern software engineering.
-  </p>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" /> What I Do</h3>
+  <p>I specialize in bridging the gap between systems architecture and user experience. <br> Turning complex problems into elegant, intuitive, and robust software.</p>
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> What I Do</h3>
-        <p>I specialize in bridging the gap between systems architecture and user experience. Turning complex problems into elegant, intuitive, and robust software.</p>
-      </td>
-      <td align="center" width="50%">
-        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> My Mission</h3>
-        <p>To constantly evolve, master the latest web, mobile, and AI technologies, and build software that genuinely makes an impact.</p>
-      </td>
-    </tr>
-  </table>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" /> My Mission</h3>
+  <p>To constantly evolve, master the latest web, mobile, and AI technologies, <br> and build software that genuinely makes an impact.</p>
 </div>
 
 <br>
@@ -69,12 +63,10 @@
 <br>
 
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" alt="Fire" width="35" /> GitHub Stats & Trophies</h2>
+  <h2>🔥 GitHub Stats & Highlights</h2>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohit-shivhare&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Rohit's Trophies" />
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=rohit-shivhare&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=0E75B6" alt="Rohit's GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit-shivhare&show_icons=true&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&text_color=FFFFFF&title_color=0E75B6" alt="Rohit's Top Languages" />
